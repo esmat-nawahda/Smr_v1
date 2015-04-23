@@ -1,9 +1,11 @@
-package com.example.geniucodepointer.smr_v1;
+package com.example.geniucodepointer.smr_v1.MainMenu;
 
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
+
+import com.example.geniucodepointer.smr_v1.R;
 
 
 public class MainActivity extends ActionBarActivity {
